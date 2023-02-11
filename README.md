@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codekesh
 - 👀 I’m interested in Web Designing, 
-- 🌱 I’m currently learning Web Design.
+- 🌱 I’m Web developer.
 - 📫 Email ID- 201117@iiitt.ac.in
 
 <!---
